@@ -1,0 +1,94 @@
+[09-Jan-2021 03:18:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 03:18:12 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 03:58:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 03:58:13 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 03:58:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 03:58:58 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 03:58:58 UTC] PHP Notice:  Undefined index: img in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 03:58:58 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 03:59:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 03:59:01 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 03:59:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 03:59:45 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 03:59:45 UTC] PHP Notice:  Undefined index: img in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 03:59:45 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 03:59:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 03:59:47 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 03:59:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 03:59:57 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 03:59:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 03:59:59 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:01:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:01:11 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:04:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:04:29 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:14:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:14:51 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:14:51 UTC] PHP Notice:  Undefined index: img in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:14:51 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:14:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:14:53 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:23:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:23:13 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:23:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:23:30 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:23:30 UTC] PHP Notice:  Undefined index: img in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:23:30 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:23:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:23:35 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:23:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:23:43 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:23:43 UTC] PHP Notice:  Undefined index: img in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:23:43 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:23:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:23:46 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:24:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:24:11 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:24:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:24:22 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:24:22 UTC] PHP Notice:  Undefined index: img in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:24:22 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:24:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:24:24 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:24:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:24:32 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:24:32 UTC] PHP Notice:  Undefined index: img in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:24:32 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:24:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:24:33 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:24:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:24:44 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:24:44 UTC] PHP Notice:  Undefined index: img in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[09-Jan-2021 04:24:44 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[09-Jan-2021 04:24:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[09-Jan-2021 04:24:46 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 02:23:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 02:23:58 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 02:24:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 02:24:05 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 02:31:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 02:31:02 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 02:57:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 02:57:24 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 02:57:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 02:57:26 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 02:58:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 02:58:34 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 02:58:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 02:58:38 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 02:59:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 02:59:10 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 02:59:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 02:59:13 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 03:59:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 03:59:03 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 03:59:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 03:59:47 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 03:59:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 03:59:58 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 05:39:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 05:39:40 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[10-Jan-2021 11:46:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Jan-2021 11:46:54 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[31-Jan-2021 02:09:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[31-Jan-2021 02:09:08 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16

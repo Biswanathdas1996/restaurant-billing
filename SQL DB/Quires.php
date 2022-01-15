@@ -1,0 +1,2 @@
+ALTER TABLE `food_menu_type` ADD `taxation_rule` INT(11) NOT NULL DEFAULT '1' COMMENT '1=> Tax Applied after discount\r\n2=> Tax applied before discount ' AFTER `name`;
+ALTER TABLE `food_menu_type` CHANGE `taxation_rule` `tax_applied_after_discount` INT(11) NOT NULL DEFAULT '1' COMMENT '1=> Tax Applied after discount\r\n0=> Tax applied before discount ';  

@@ -1,0 +1,10 @@
+[03-Apr-2020 05:53:41 UTC] PHP Notice:  Undefined index: table_name in /home/scanncat/public_html/food/control/src/security/generate_csrf.php on line 3
+[03-Apr-2020 05:56:03 UTC] PHP Notice:  Undefined index: table_name in /home/scanncat/public_html/food/control/src/security/generate_csrf.php on line 3
+[03-Apr-2020 06:15:16 UTC] PHP Notice:  Undefined index: table in /home/scanncat/public_html/food/control/src/security/generate_csrf.php on line 5
+[03-Apr-2020 06:15:16 UTC] PHP Notice:  Undefined index: token_create_ in /home/scanncat/public_html/food/control/src/security/generate_csrf.php on line 5
+[03-Apr-2020 06:15:35 UTC] PHP Notice:  Undefined index: table in /home/scanncat/public_html/food/control/src/security/generate_csrf.php on line 5
+[03-Apr-2020 06:15:35 UTC] PHP Notice:  Undefined index: token_create_ in /home/scanncat/public_html/food/control/src/security/generate_csrf.php on line 5
+[03-Apr-2020 06:16:22 UTC] PHP Notice:  Undefined index: table in /home/scanncat/public_html/food/control/src/security/generate_csrf.php on line 6
+[03-Apr-2020 06:16:22 UTC] PHP Notice:  Undefined index: token_create_ in /home/scanncat/public_html/food/control/src/security/generate_csrf.php on line 6
+[03-Apr-2020 06:17:00 UTC] PHP Notice:  Undefined index: table in /home/scanncat/public_html/food/control/src/security/generate_csrf.php on line 6
+[03-Apr-2020 06:17:00 UTC] PHP Notice:  Undefined index: token_create_ in /home/scanncat/public_html/food/control/src/security/generate_csrf.php on line 6

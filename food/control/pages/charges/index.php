@@ -1,0 +1,1 @@
+<?php $table_name='food_tax_charges';?><?php include("../../src/config/includes.php"); echo Body::bodyContain($table_name); include('../../src/layout/foot.php'); ?>

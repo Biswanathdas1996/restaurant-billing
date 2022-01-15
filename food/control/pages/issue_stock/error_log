@@ -1,0 +1,162 @@
+[04-Dec-2020 03:01:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:01:39 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:01:39 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:01:39 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:02:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:02:03 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:02:03 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:02:03 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:02:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:02:36 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:02:36 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:02:36 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:02:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:02:45 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:02:45 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:02:45 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:03:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:03:17 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:03:17 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:03:17 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined index: name in /home/scanncat/public_html/food/control/pages/issue_stock/index.php on line 80
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined index: name in /home/scanncat/public_html/food/control/pages/issue_stock/index.php on line 80
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined index: name in /home/scanncat/public_html/food/control/pages/issue_stock/index.php on line 80
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined index: name in /home/scanncat/public_html/food/control/pages/issue_stock/index.php on line 80
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined index: name in /home/scanncat/public_html/food/control/pages/issue_stock/index.php on line 80
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined index: name in /home/scanncat/public_html/food/control/pages/issue_stock/index.php on line 80
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined index: name in /home/scanncat/public_html/food/control/pages/issue_stock/index.php on line 80
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined index: name in /home/scanncat/public_html/food/control/pages/issue_stock/index.php on line 80
+[04-Dec-2020 03:07:09 UTC] PHP Notice:  Undefined index: name in /home/scanncat/public_html/food/control/pages/issue_stock/index.php on line 80
+[04-Dec-2020 03:07:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:07:54 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:07:54 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:07:54 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:26:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:26:12 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:26:12 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:26:12 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:26:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:26:20 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:26:20 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:26:20 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:26:20 UTC] PHP Warning:  include(../../src/config/immage_upload.php): failed to open stream: No such file or directory in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[04-Dec-2020 03:26:20 UTC] PHP Warning:  include(): Failed opening '../../src/config/immage_upload.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[04-Dec-2020 03:26:20 UTC] PHP Notice:  Undefined index: unique_field in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[04-Dec-2020 03:26:20 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[04-Dec-2020 03:28:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:28:27 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:28:27 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:28:27 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:29:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:29:00 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:29:00 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:29:00 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:29:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:29:09 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:29:09 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:29:09 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:29:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:29:30 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:29:30 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:29:30 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:29:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:29:35 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:29:35 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:29:35 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:49:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:49:49 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:49:49 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:49:49 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:50:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:50:23 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:50:23 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:50:23 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:51:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:51:08 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:51:08 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:51:08 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:53:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:53:06 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:53:06 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:53:06 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 03:53:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 03:53:12 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 03:53:12 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 03:53:12 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 04:04:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 04:04:35 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 04:04:35 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 04:04:35 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 04:04:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[04-Dec-2020 04:04:43 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[04-Dec-2020 04:04:43 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[04-Dec-2020 04:04:43 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[04-Dec-2020 04:04:43 UTC] PHP Warning:  include(../../src/config/immage_upload.php): failed to open stream: No such file or directory in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[04-Dec-2020 04:04:43 UTC] PHP Warning:  include(): Failed opening '../../src/config/immage_upload.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[04-Dec-2020 04:04:43 UTC] PHP Notice:  Undefined index: unique_field in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[04-Dec-2020 04:04:43 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[10-Dec-2020 10:47:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[10-Dec-2020 10:47:53 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[10-Dec-2020 10:47:53 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[10-Dec-2020 10:47:53 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[27-Dec-2020 10:57:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[27-Dec-2020 10:57:15 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[27-Dec-2020 10:57:15 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[27-Dec-2020 10:57:15 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[27-Dec-2020 10:57:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[27-Dec-2020 10:57:31 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[27-Dec-2020 10:57:31 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[27-Dec-2020 10:57:31 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[27-Dec-2020 10:57:31 UTC] PHP Warning:  include(../../src/config/immage_upload.php): failed to open stream: No such file or directory in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[27-Dec-2020 10:57:31 UTC] PHP Warning:  include(): Failed opening '../../src/config/immage_upload.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[27-Dec-2020 10:57:31 UTC] PHP Notice:  Undefined index: unique_field in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[27-Dec-2020 10:57:31 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[27-Dec-2020 10:57:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[27-Dec-2020 10:57:46 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[27-Dec-2020 10:57:46 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[27-Dec-2020 10:57:46 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[27-Dec-2020 10:58:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[27-Dec-2020 10:58:02 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[27-Dec-2020 10:58:02 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[27-Dec-2020 10:58:02 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[27-Dec-2020 10:58:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[27-Dec-2020 10:58:16 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[27-Dec-2020 10:58:16 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[27-Dec-2020 10:58:16 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[27-Dec-2020 10:58:16 UTC] PHP Warning:  include(../../src/config/immage_upload.php): failed to open stream: No such file or directory in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[27-Dec-2020 10:58:16 UTC] PHP Warning:  include(): Failed opening '../../src/config/immage_upload.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[27-Dec-2020 10:58:16 UTC] PHP Notice:  Undefined index: unique_field in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[27-Dec-2020 10:58:16 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[27-Dec-2020 10:58:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[27-Dec-2020 10:58:29 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[27-Dec-2020 10:58:29 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[27-Dec-2020 10:58:29 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[27-Dec-2020 10:58:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[27-Dec-2020 10:58:43 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[27-Dec-2020 10:58:43 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[27-Dec-2020 10:58:43 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[27-Dec-2020 10:58:43 UTC] PHP Warning:  include(../../src/config/immage_upload.php): failed to open stream: No such file or directory in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[27-Dec-2020 10:58:43 UTC] PHP Warning:  include(): Failed opening '../../src/config/immage_upload.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[27-Dec-2020 10:58:43 UTC] PHP Notice:  Undefined index: unique_field in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[27-Dec-2020 10:58:43 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[27-Dec-2020 12:31:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[27-Dec-2020 12:31:20 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[27-Dec-2020 12:31:20 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[27-Dec-2020 12:31:20 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[27-Dec-2020 12:31:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[27-Dec-2020 12:31:53 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[27-Dec-2020 12:31:53 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[27-Dec-2020 12:31:53 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78
+[27-Dec-2020 12:31:53 UTC] PHP Warning:  include(../../src/config/immage_upload.php): failed to open stream: No such file or directory in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[27-Dec-2020 12:31:53 UTC] PHP Warning:  include(): Failed opening '../../src/config/immage_upload.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scanncat/public_html/food/control/src/query/query.php on line 244
+[27-Dec-2020 12:31:53 UTC] PHP Notice:  Undefined index: unique_field in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[27-Dec-2020 12:31:53 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/scanncat/public_html/food/control/src/query/query.php on line 248
+[28-Jan-2021 12:54:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head_site_content.php on line 2
+[28-Jan-2021 12:54:13 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[28-Jan-2021 12:54:13 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 30
+[28-Jan-2021 12:54:13 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 61
+[28-Jan-2021 12:54:13 UTC] PHP Notice:  Undefined variable: table_name in /home/scanncat/public_html/food/control/src/files/script.php on line 78

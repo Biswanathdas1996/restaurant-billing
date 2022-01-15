@@ -1,0 +1,13 @@
+[27-Dec-2020 14:05:48 UTC] PHP Notice:  Undefined index: amount in /home/scanncat/public_html/food/control/pages/issue/weiget.php on line 25
+[27-Dec-2020 14:05:48 UTC] PHP Notice:  Undefined index: amount in /home/scanncat/public_html/food/control/pages/issue/weiget.php on line 25
+[27-Dec-2020 14:05:48 UTC] PHP Notice:  Undefined index: amount in /home/scanncat/public_html/food/control/pages/issue/weiget.php on line 25
+[27-Dec-2020 14:05:48 UTC] PHP Notice:  Undefined index: amount in /home/scanncat/public_html/food/control/pages/issue/weiget.php on line 25
+[06-Jan-2021 17:21:33 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[06-Jan-2021 17:22:27 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[28-Jan-2021 12:54:10 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[28-Jan-2021 12:54:20 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[28-Jan-2021 13:50:00 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[29-Jan-2021 09:27:35 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[29-Jan-2021 09:27:58 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[29-Jan-2021 16:49:41 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16
+[29-Jan-2021 16:50:23 UTC] PHP Warning:  Use of undefined constant asc - assumed 'asc' (this will throw an Error in a future version of PHP) in /home/scanncat/public_html/food/control/src/layout/sidebar.php on line 16

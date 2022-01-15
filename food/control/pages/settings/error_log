@@ -1,0 +1,2 @@
+[06-Jun-2020 13:50:00 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[06-Jun-2020 13:50:00 UTC] PHP Notice:  Undefined index: created in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10

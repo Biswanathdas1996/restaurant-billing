@@ -1,0 +1,10 @@
+[26-Oct-2020 13:22:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head.php on line 2
+[26-Oct-2020 13:23:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head.php on line 2
+[26-Oct-2020 13:23:01 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[26-Oct-2020 13:23:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head.php on line 2
+[26-Oct-2020 13:23:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head.php on line 2
+[26-Oct-2020 13:23:09 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[26-Oct-2020 13:23:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head.php on line 2
+[26-Oct-2020 13:23:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head.php on line 2
+[26-Oct-2020 13:23:17 UTC] PHP Notice:  Undefined index: id in /home/scanncat/public_html/food/control/src/curd/controller/createController.php on line 10
+[26-Oct-2020 13:23:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/scanncat/public_html/food/control/src/layout/head.php on line 2

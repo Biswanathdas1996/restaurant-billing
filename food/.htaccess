@@ -1,0 +1,8 @@
+
+
+SetEnv HTTP_BASE_PATH "http://localhost:3100/OflineResturent/"
+
+SetEnv HTTP_DATABASE_HOST "localhost"
+SetEnv HTTP_DATABASE_USER_NAME "root"
+SetEnv HTTP_DATABASE_PASSWORD ""
+SetEnv HTTP_DATABASE_NAME "scanncat_papun"

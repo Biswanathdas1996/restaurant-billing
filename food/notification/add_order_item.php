@@ -1,0 +1,31 @@
+<?php
+  include('query.php');
+  $item_id=$_GET["id"];
+  $Qty=$_GET["qty"];
+  $session_id=$_GET["session_id"];
+  $check_already_add=select('food_order_item_dami',array(
+                "conditions"=>array(
+                    "session_id"=>$session_id,
+                    "item_id"=>$item_id
+                    )
+      ));
+    if(count($check_already_add)>0){
+        $id=$check_already_add[0]['id'];
+        $data=array(
+        "data"=>array(
+                "qnt"=>$Qty,
+            ),
+        );
+        $update_data=update('food_order_item_dami',$data,$id);
+    }else{
+       $data=array(
+        "data"=>array(
+                "item_id"=>$item_id,
+                "qnt"=>$Qty,
+                "date"=>date("Y-m-d"),
+                "session_id"=>$session_id
+            )    
+        );
+        $insert_data = insert('food_order_item_dami',$data);
+  }
+?>
