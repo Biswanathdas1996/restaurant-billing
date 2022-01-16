@@ -5,8 +5,9 @@
 
 # Node artifact files
 node_modules/
+FrontEnd-App/node_modules/
 dist/
-FrontEnd-App/
+
 
 # Compiled Java class files
 *.class
