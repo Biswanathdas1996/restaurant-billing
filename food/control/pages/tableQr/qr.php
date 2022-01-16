@@ -1,25 +1,13 @@
 <?php
 // include('../../../db/query.php');
-
-
-$id=$_GET["qr_id"];
+$id=$_GET["qr_id"]; 
 $links=base64_decode($_GET["link"]);
-
 $link=$links."/food/auth.php";
-
 $encrypteddata=base64_encode(base64_encode(base64_encode(base64_encode($id))));
-
-
- 
 
 // $processdata=str_replace(' ',"`","$id");
 // $encrypteddata = file_get_contents("https://developerspoint.in/e/?user=admin&value=$processdata");
-
-
-
 $data = $link.'?data='.$encrypteddata;
-
-
 $size = '500x500';
 // Path to image (web or local)
 $logo = 'in_qr_logo.jpg';
@@ -47,6 +35,3 @@ imagecopyresampled($QR, $logo, $QR_width/3, $QR_height/3, 0, 0, $logo_qr_width, 
 header('Content-type: image/png');
 imagepng($QR);
 imagedestroy($QR);
-
-
-?>
